@@ -1,30 +1,33 @@
 # Landscape
 
-A variation on the landscape theme (Hexo default theme).  Customisations include
+A variation on the landscape theme (Hexo default theme).
 
+## Customizations from forked repo: (https://github.com/jr0cket/hexo-theme-landscape-jr0cket.git)
 - Ubuntu fonts
 - padding and round corners on code blocks
 - 3 styles for images when using swig (thumbnail, code & topic)
 - minimised spacing everywhere, smaller header banner
 
-- [Preview theme by viewing my blog](http://jr0cket.co.uk/)
+## My Customizations:
+- Change starting top menu to 2 items. (Home, About)
+- Small positioning changes to top menu items.
 
 ## Installation
 
 ``` bash
-git clone https://github.com/hexojs/hexo-theme-landscape.git themes/landscape-jr0cket
+git clone https://github.com/dnosker/hexo-theme-landscape-dnosker.git themes/landscape-dnosker
 ```
 
 **Landscape requires Hexo 2.4 and above.**
 
 ### Enable
 
-Modify `theme` setting in `_config.yml` to `landscape-jr0cket`.
+Modify `theme` setting in `_config.yml` to `landscape-dnosker`.
 
 ### Update
 
 ``` bash
-cd themes/landscape-jr0cket
+cd themes/landscape-dnosker
 git pull
 ```
 
