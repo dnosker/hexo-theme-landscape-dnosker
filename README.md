@@ -2,7 +2,8 @@
 
 A variation on the landscape theme (Hexo default theme).
 
-## Customizations from forked repo: (https://github.com/jr0cket/hexo-theme-landscape-jr0cket.git)
+## Customizations from forked repo:
+### (https://github.com/jr0cket/hexo-theme-landscape-jr0cket.git)
 - Ubuntu fonts
 - padding and round corners on code blocks
 - 3 styles for images when using swig (thumbnail, code & topic)
